@@ -1,0 +1,3 @@
+SECRET_KEY = "secret_key_qwertyuiop"
+ALGORITHM = "HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES = 5
